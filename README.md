@@ -10,13 +10,13 @@ Bienvenido al repositorio de conocimiento del departamento de consultoría en IA
 
 ## Estructura del repositorio
 
-/01_Fundamentos_IA/ # Conceptos básicos y glosarios
-/02_Herramientas_Tecnologias/ # Software y plataformas comunes
-/03_Metodologia_Proyectos/ # Metodologías de proyectos
-/04_Casos_Uso/ # Casos de estudios
-/05_Datos_Gobernanza/ # Datos_Gobernanza y Gestión de datos
-/06_Capacitacion_Desarrollo/  # Material formativo
-/07_Estrategia_Tendencias/  # Análisis de mercado
+- /01_Fundamentos_IA/ # Conceptos básicos y glosarios
+- /02_Herramientas_Tecnologias/ # Software y plataformas comunes
+- /03_Metodologia_Proyectos/ # Metodologías de proyectos
+- /04_Casos_Uso/ # Casos de estudios
+- /05_Datos_Gobernanza/ # Datos_Gobernanza y Gestión de datos
+- /06_Capacitacion_Desarrollo/  # Material formativo
+- /07_Estrategia_Tendencias/  # Análisis de mercado
 
 ## Cómo contribuir
 1. Crea una rama para tus cambios
